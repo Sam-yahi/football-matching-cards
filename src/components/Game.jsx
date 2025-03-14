@@ -1,5 +1,5 @@
 import { useState, useEffect } from 'react';
-import 'E:/web dev/projects/quiz/my-react-app/public/Game.css';
+import './Game.css';
 import ReStart from './restart';
 
 // Import images
